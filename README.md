@@ -7,4 +7,4 @@
 - 📫 How to reach me: personal@zariaa.tk
 - ⚡ Fun fact: I'm 14!
 
-![Discord Banner 4](https://discordapp.com/api/guilds/795105559569235988/widget.png?style=banner4)
+![DBN](https://discordapp.com/api/guilds/795105559569235988/widget.png)
