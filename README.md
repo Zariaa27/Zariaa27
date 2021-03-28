@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I'm 14!
 
 <p align="center">
-  <a href="https://discord.gg/Ssgx8ZNapA"><img src="https://discord.com/api/guilds/795105559569235988/embed.png?style=banner3" alt="Discord"></a>
+  <a href="https://discord.gg/Ssgx8ZNapA">Discord Server</a>
 </p>
