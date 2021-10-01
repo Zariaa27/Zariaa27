@@ -1,6 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 <hr>
-[image](https://github.com/Zariaa27/Zariaa27/blob/35d54b0a4171b6cc270f38104c39f2422f72632d/New%20Project%20(2).png)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on my discord bot.
 - 🌱 I’m currently learning NodeJS
