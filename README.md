@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 <hr>
 
-[Zariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=gruvbox)
-
-![Zariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=gruvbox)
+![Zariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=radical)
   
 - 🔭 I’m currently working on my discord bot.
 - 🌱 I’m currently learning NodeJS
