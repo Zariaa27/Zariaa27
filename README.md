@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋</p>
+<p align="center"><h1>Hi there 👋</h1></p>
 
 [alt text](https://github.com/Zariaa27/Zariaa27/blob/35d54b0a4171b6cc270f38104c39f2422f72632d/New%20Project%20(2).png)
 
