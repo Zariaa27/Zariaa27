@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[Zariaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=gruvbox)
 </p>
   
 - 🔭 I’m currently working on my discord bot.
