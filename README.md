@@ -1,8 +1,10 @@
 <h1 align="center">Hello there 👋</h1>
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zariaa27&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+  
 - 🔭 I’m currently working on my discord bot.
 - 🌱 I’m currently learning NodeJS
 - 👯 I’m looking to collaborate on Discord servers looking for web hosting / discord bot making.
