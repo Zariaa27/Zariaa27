@@ -8,7 +8,7 @@
 - 👯 I’m looking to partner with Discord servers looking for web hosting / discord bot making.
 - 💬 Ask me about Node.js / HTML5 / CSS3
 - 📫 How to reach me: alexis@alexistrudeau.me
-- ⚡ Fun fact: I'm 15!
+- ⚡ Fun fact: you won't!
 
 <p align="center">
   <a href="https://discord.zariaa.tk">Discord Server</a>
